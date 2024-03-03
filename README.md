@@ -13,3 +13,10 @@
 
 7. Отчет "Остатки товаров". Сформирован в СКД, отображает остатки товаров в разрезе Складов
 ![image](https://github.com/PronkoEvgeniya/inventoryControl__test/assets/94559003/fb740c0c-2d4b-43b7-bee4-81138d032e99)
+
+____________________________________________________________________________________________________________________________
+Разработано в **Учебной платформе** 8.3.23.1912
+
+Выгрузка в файлы .xml [ветка xml](https://github.com/PronkoEvgeniya/inventoryControl__test/tree/xml)
+
+Выгрузка в файл .dt [ветка dt](https://github.com/PronkoEvgeniya/inventoryControl__test/tree/dt)
